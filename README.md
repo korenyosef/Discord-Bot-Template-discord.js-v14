@@ -1,4 +1,3 @@
-```
 # Discord Bot Template (discord.js v14)
 
 This is a Discord bot template built using Discord.js version 14. It provides a basic structure for creating Discord bots with slash commands.
