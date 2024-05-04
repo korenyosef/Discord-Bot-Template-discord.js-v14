@@ -83,5 +83,3 @@ npm run start
 ## Credits
 
 This template is inspired by [Fusion Terror's YouTube tutorial](https://youtu.be/6IgOXmQMT68). Special thanks to Fusion Terror for the inspiration!
-
-```
